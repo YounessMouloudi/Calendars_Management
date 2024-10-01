@@ -1,3 +1,8 @@
+## About Project
+
+This project is a server-side web application developed with **Laravel**, utilizing **MVC architecture**. It uses **Bootstrap** for responsive design and **jQuery** for dynamic interactions, along with **FullCalendar** to display and manage events. Users can create accounts, manage their profiles, and easily handle calendars and events. The app supports time zones and includes a dashboard to track user activities and event statistics.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
